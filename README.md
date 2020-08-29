@@ -8,6 +8,7 @@ MxID 是一个生物特征识别高性能库，可以应用在PC，手机或者M
 ### Contact me
 
 You can contact me through zhihu message(Mx-sh, www.zhihu.com)
+or QQ(511890708)
 
 ---
 
